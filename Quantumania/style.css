@@ -1,4 +1,23 @@
 /* reset */
-.body{
+body{
+    background-image: url(./Img/background.png);
     background-color: navy;
+    height: 500px;
+
+}
+header{
+    background-color: ;
+    height: 200px;
+}
+main{
+
+}
+p{
+
+}
+a{
+
+}
+footer{
+
 }
