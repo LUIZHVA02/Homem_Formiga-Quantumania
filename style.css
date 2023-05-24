@@ -42,11 +42,6 @@ main{
         left: 6%;
         z-index: 1;
 }
-p{
-    color: white;
-    white-space: pre;  
-    background-blend-mode: overlay;
-}
 .youtube-logo {
     position: fixed;
     top: 32%;
@@ -131,6 +126,8 @@ nav a {
     max-width: 80%;
     margin: 10px;
     margin-bottom: 30px;
+    white-space: pre;  
+    background-blend-mode: overlay;
 }
 
 footer {
