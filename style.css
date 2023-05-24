@@ -14,11 +14,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-<<<<<<< HEAD
-    background-image: url("./quantumania/img/background.png");
-=======
-    background-image: url("./Quantumania/Img/background.png");
->>>>>>> 88d6beb093fddb4edc936499145242b63017c170
+    background-image: url("./quantumania/Img/background.png");
     padding: 100px 20px 20px 20px;
     background-size: cover;
     background-position: center;
@@ -44,11 +40,7 @@ main{
         left: 6%;
         z-index: 1;
 }
-p{
-    color: white;
-    white-space: pre;  
-    background-blend-mode: overlay;
-}
+
 .youtube-logo {
     position: fixed;
     top: 32%;
@@ -93,9 +85,9 @@ img {
 }
 .logo{
     position: absolute;
-    top: -60%;
+    top: -37%;
     left: 130%;
-    height: 85%;
+    height: 55%;
     width: 170%;
 }
 nav {
@@ -131,8 +123,10 @@ nav a {
     color: white;
     font-size: 130%;
     max-width: 80%;
-    margin: 10px;
-    margin-bottom: 30px;
+    margin: 10%;
+    margin-bottom: 30%;
+    white-space: pre;  
+    background-blend-mode: overlay;
 }
 
 footer {
