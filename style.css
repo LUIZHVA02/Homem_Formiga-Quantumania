@@ -84,9 +84,9 @@ img {
 }
 .logo{
     position: absolute;
-    top: -37%;
+    top: -75%;
     left: 130%;
-    height: 55%;
+    height: 90%;
     width: 170%;
 }
 nav {
@@ -120,10 +120,11 @@ nav a {
 
 .description__text {
     color: white;
-    font-size: 130%;
+    font-size: 150%;
     max-width: 80%;
-    margin: 10px;
-    margin-bottom: 30px;
+    margin: 3% 9%;
+    margin-bottom: 10px;
+    top: 60%;
     white-space: pre;  
     background-blend-mode: overlay;
 }
